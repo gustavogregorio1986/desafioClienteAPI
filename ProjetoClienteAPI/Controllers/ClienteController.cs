@@ -70,5 +70,11 @@ namespace ProjetoClienteAPI.Controllers
 
             return new JsonResult(clienteDTO);
         }
+
+        [HttpDelete]
+        public void Deletar(int id)
+        {
+            _clienteServico.Deletar(id);
+        }
     }
 }
