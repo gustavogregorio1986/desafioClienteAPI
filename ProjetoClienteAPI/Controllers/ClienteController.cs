@@ -44,7 +44,8 @@ namespace ProjetoClienteAPI.Controllers
         [HttpGet("{ListarPorNome}/{nome}")]
         public ClienteDTO ListaPorNome(string nome)
         {
-            return _clienteServico.ListarPorNome(nome);
+            var lista = _clienteServico.ListarPorNome(nome);
+            return lista;
         }
 
         [HttpGet("{ListarPorId}/{id}")]
