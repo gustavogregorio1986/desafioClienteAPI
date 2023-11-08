@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ProjetoClienteAPI.Data.DTO;
+using ProjetoClienteAPI.Data.Mapping;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,9 +19,9 @@ namespace ProjetoClienteAPI.Data.Contexto
 
         public DbSet<ClienteDTO> ClienteDTOs { get; set; }
 
-        internal ClienteDTO Find(int id)
+        protected void OnCreating(ModelBuilder modelBuilder)
         {
-            throw new NotImplementedException();
+            modelBuilder.Entity<ClienteMap>().ToTable("tb_Cliente")
         }
     }
 }
