@@ -1,0 +1,17 @@
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\bin\Debug\net6.0\ProjetoClienteAPI.Servico.deps.json
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\bin\Debug\net6.0\ProjetoClienteAPI.Servico.dll
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\bin\Debug\net6.0\ProjetoClienteAPI.Servico.pdb
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\bin\Debug\net6.0\ProjetoClienteAPI.Data.dll
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\bin\Debug\net6.0\ProjetoClienteAPI.Dominio.dll
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\bin\Debug\net6.0\ProjetoClienteAPI.Data.pdb
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\bin\Debug\net6.0\ProjetoClienteAPI.Dominio.pdb
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\obj\Debug\net6.0\ProjetoClienteAPI.Servico.csproj.AssemblyReference.cache
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\obj\Debug\net6.0\ProjetoClienteAPI.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\obj\Debug\net6.0\ProjetoClienteAPI.Servico.AssemblyInfoInputs.cache
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\obj\Debug\net6.0\ProjetoClienteAPI.Servico.AssemblyInfo.cs
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\obj\Debug\net6.0\ProjetoClienteAPI.Servico.csproj.CoreCompileInputs.cache
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\obj\Debug\net6.0\ProjetoClienteAPI.Servico.csproj.CopyComplete
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\obj\Debug\net6.0\ProjetoClienteAPI.Servico.dll
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\obj\Debug\net6.0\refint\ProjetoClienteAPI.Servico.dll
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\obj\Debug\net6.0\ProjetoClienteAPI.Servico.pdb
+C:\DesafioClienteAPI\ProjetoClienteAPI\ProjetoClienteAPI.Servico\obj\Debug\net6.0\ref\ProjetoClienteAPI.Servico.dll
